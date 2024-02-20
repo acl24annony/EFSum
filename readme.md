@@ -6,6 +6,7 @@
 * torch
 * openai
 * tqdm
+* deepspeed
 * text-generation-inference (https://huggingface.co/docs/text-generation-inference/installation)
 
 ## SFT(Supervised Fine-tuning)
